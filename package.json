@@ -1,0 +1,11 @@
+{
+  "name": "kibana-plugin-lodash-oo-mixin",
+  "version": "1.0.0",
+  "description": "oo mixin for kibana plugins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alexandre.masselot@gmail.com",
+  "license": "ISC"
+}
