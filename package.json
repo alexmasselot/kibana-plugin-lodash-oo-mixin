@@ -1,11 +1,18 @@
 {
   "name": "kibana-plugin-lodash-oo-mixin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "oo mixin for kibana plugins",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "alexandre.masselot@gmail.com",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.13.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexmasselot/kibana-plugin-lodash-oo-mixin"
+  }
 }
